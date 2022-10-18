@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+Audios
+DB_diccionario.sql
